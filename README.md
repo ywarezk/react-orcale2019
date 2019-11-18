@@ -14,4 +14,20 @@ My hebrew React course is available online for free in this link:
 ### Lesson Plan
 
 - React introduction
+  - Hello world
+  - SPA
+  - VirtualDOM
+  - JSX
+  - Components
+
+- create-react-app
+  - components
+  - props
+  - state
+  - events
+  
+
+- react-native
+  - about
+  - react-native-cli
 
